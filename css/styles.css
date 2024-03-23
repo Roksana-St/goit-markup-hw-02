@@ -184,9 +184,6 @@ a {
 
 .footer {
     background-color: #2e2f42;
-    width: 1440px;
-    height: 312px;
-    flex-shrink: 0;
 }
 
 .logo-foot {
